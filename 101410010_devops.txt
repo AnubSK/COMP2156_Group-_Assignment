@@ -3,3 +3,4 @@ COMP 2156 Devops Course
  A course on DevOps would cover the principles, methods, and tools used in this approach.
  DevOps courses often include hands-on labs or projects.
  Students may need a foundational understanding of software development, and networking concepts.
+ The course could be offered in various formats, such as lectures, labs, workshops, and possibly online components for remote learning.
