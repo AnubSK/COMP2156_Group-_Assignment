@@ -4,3 +4,4 @@ COMP 2156 Devops Course
  DevOps courses often include hands-on labs or projects.
  Students may need a foundational understanding of software development, and networking concepts.
  The course could be offered in various formats, such as lectures, labs, workshops, and possibly online components for remote learning.
+ Devops covers understanding version control concepts and using tools like Git for managing source code changes, branching, and merging.
