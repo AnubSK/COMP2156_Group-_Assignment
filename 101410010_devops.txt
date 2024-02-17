@@ -1,3 +1,4 @@
 COMP 2156 Devops Course
  DevOps is a set of practices that combine software development (Dev) and IT operations (Ops).
  A course on DevOps would cover the principles, methods, and tools used in this approach.
+ DevOps courses often include hands-on labs or projects.
