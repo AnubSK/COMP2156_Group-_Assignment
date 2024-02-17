@@ -7,3 +7,4 @@ COMP 2156 Devops Course
  Devops covers understanding version control concepts and using tools like Git for managing source code changes, branching, and merging.
  Covers introduction to CI principles and tools like Jenkins, Travis CI, or GitLab CI for automating the build and testing of applications.
  Best practices for integrating security into the DevOps process, including vulnerability scanning, compliance checks, and security testing.
+ Practical exercises, case studies, and real-world projects to apply DevOps principles and tools in different scenarios.
